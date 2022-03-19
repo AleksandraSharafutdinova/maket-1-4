@@ -44,10 +44,10 @@ body {
 }
 
 .close{
-    background: url("/images/close.svg");
+    background: url("images/close.svg");
 }
 .search{
-    background: url("/images/search.svg");
+    background: url("images/search.svg");
 }
 .main {
     display: flex;
@@ -96,13 +96,13 @@ body {
     margin-bottom: 16px;
 }
 .call {
-    background: url("/images/call.svg");
+    background: url("images/call.svg");
 }
 .chat{
-    background: url("/images/chat.svg");
+    background: url("images/chat.svg");
 }
 .profile{
-    background: url("/images/profile.svg");
+    background: url("images/profile.svg");
 }
 .footer__email a {
     display: block;
