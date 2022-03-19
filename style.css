@@ -123,6 +123,7 @@ body {
     font-size: 24px;
     margin-bottom: 16px;
     font-weight: bold;
+    width: 210px;
 }
 .footer__number a:hover{
     text-decoration: underline;
